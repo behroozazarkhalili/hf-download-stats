@@ -158,8 +158,10 @@ def _write_readme(stats: dict, author: str, log_path: Path, agg_file: Path) -> N
     w(f"| Metric | Count |")
     w(f"|--------|------:|")
     w(f"| Models | {stats['total_models']} |")
+    w(f"| Model Downloads | **{stats['total_model_downloads']:,}** |")
     w(f"| Datasets | {stats['total_datasets']} |")
-    w(f"| Total Downloads | **{stats['total_downloads']:,}** |")
+    w(f"| Dataset Downloads | **{stats['total_dataset_downloads']:,}** |")
+    w(f"| **Total Downloads** | **{stats['total_downloads']:,}** |")
     w(f"| Total Likes | {stats['total_likes']} |")
     w(f"")
 

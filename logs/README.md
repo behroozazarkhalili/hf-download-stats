@@ -1,19 +1,21 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-04-09 18:14:26 UTC
+**Last updated:** 2026-04-09 18:22:14 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Models | 37 |
+| Models | 38 |
+| Model Downloads | **322** |
 | Datasets | 7 |
-| Total Downloads | **393** |
+| Dataset Downloads | **71** |
+| **Total Downloads** | **393** |
 | Total Likes | 1 |
 
-## Models (37)
+## Models (38)
 
 | # | Model | Downloads | Likes | Last Modified |
 |--:|-------|----------:|------:|--------------:|
@@ -54,6 +56,7 @@
 | 35 | [Qwen2.5-0.5B-SFT-OpenHermes-2.5-100](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-SFT-OpenHermes-2.5-100) | 0 | 0 |  |
 | 36 | [granite-4.0-micro-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-10K) | 0 | 0 |  |
 | 37 | [granite-4.0-micro-GRPO-NuminaMath-20K](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-20K) | 0 | 0 |  |
+| 38 | [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili/ermiaazarkhalili) | 0 | 0 |  |
 | | **Total** | **322** | | |
 
 ## Datasets (7)
@@ -75,4 +78,5 @@
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
 | 2026-04-09 | 37 | 7 | 322 | 71 | 393 | 1 |
 | 2026-04-09 | 37 | 7 | 322 | 71 | 393 | 1 |
+| 2026-04-09 | 38 | 7 | 322 | 71 | 393 | 1 |
 

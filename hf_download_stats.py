@@ -210,11 +210,72 @@ def _write_readme(stats: dict, author: str, log_path: Path, agg_file: Path) -> N
     readme_path.write_text("\n".join(lines) + "\n")
 
 
+def update_hf_profile(stats: dict, author: str) -> None:
+    """Update the HuggingFace profile README with latest stats."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+
+    lines: list[str] = []
+    w = lines.append
+
+    w("---")
+    w("tags:")
+    w("- profile")
+    w("---")
+    w("")
+    w(f"# {author}")
+    w("")
+    w(f"## Download Stats")
+    w(f"*Last updated: {now}*")
+    w("")
+    w("| Metric | Count |")
+    w("|--------|------:|")
+    w(f"| Models | {stats['total_models']} |")
+    w(f"| Model Downloads | **{stats['total_model_downloads']:,}** |")
+    w(f"| Datasets | {stats['total_datasets']} |")
+    w(f"| Dataset Downloads | **{stats['total_dataset_downloads']:,}** |")
+    w(f"| **Total Downloads** | **{stats['total_downloads']:,}** |")
+    w(f"| Total Likes | {stats['total_likes']} |")
+    w("")
+
+    # Top 10 models
+    top_models = [m for m in stats["models"] if m["downloads"] > 0][:10]
+    if top_models:
+        w("### Top Models")
+        w("")
+        w("| Model | Downloads |")
+        w("|-------|----------:|")
+        for m in top_models:
+            name = m["id"].replace(f"{author}/", "")
+            link = f"[{name}](https://huggingface.co/{m['id']})"
+            w(f"| {link} | {m['downloads']:,} |")
+        w("")
+
+    w(f"*Updated daily by [hf-download-stats](https://github.com/behroozazarkhalili/hf-download-stats)*")
+    w("")
+
+    readme_content = "\n".join(lines)
+
+    api = HfApi()
+    profile_repo = f"{author}/{author}"
+    try:
+        api.create_repo(profile_repo, repo_type="model", exist_ok=True)
+        api.upload_file(
+            path_or_fileobj=readme_content.encode(),
+            path_in_repo="README.md",
+            repo_id=profile_repo,
+            repo_type="model",
+        )
+        print(f"  HF profile updated: https://huggingface.co/{author}")
+    except Exception as e:
+        print(f"  WARNING: Failed to update HF profile: {e}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="HuggingFace Hub download statistics")
     parser.add_argument("--author", default="ermiaazarkhalili", help="HF Hub username")
     parser.add_argument("--log", action="store_true", help="Append stats to CSV log files")
     parser.add_argument("--log-dir", default="logs", help="Directory for CSV logs")
+    parser.add_argument("--update-hf-profile", action="store_true", help="Update HF Hub profile README")
     args = parser.parse_args()
 
     stats = get_stats(args.author)
@@ -222,6 +283,9 @@ def main() -> None:
 
     if args.log:
         append_log(stats, args.author, args.log_dir)
+
+    if args.update_hf_profile:
+        update_hf_profile(stats, args.author)
 
 
 if __name__ == "__main__":

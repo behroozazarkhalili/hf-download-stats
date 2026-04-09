@@ -22,7 +22,9 @@ jobs:
         run: pip install huggingface_hub
 
       - name: Run download stats
-        run: python hf_download_stats.py --log --author ermiaazarkhalili
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python hf_download_stats.py --log --update-hf-profile --author ermiaazarkhalili
 
       - name: Commit logs
         run: |

@@ -258,12 +258,12 @@ def update_hf_profile(stats: dict, author: str) -> None:
     api = HfApi()
     profile_repo = f"{author}/{author}"
     try:
-        api.create_repo(profile_repo, repo_type="model", exist_ok=True)
+        api.create_repo(profile_repo, repo_type="dataset", exist_ok=True)
         api.upload_file(
             path_or_fileobj=readme_content.encode(),
             path_in_repo="README.md",
             repo_id=profile_repo,
-            repo_type="model",
+            repo_type="dataset",
         )
         print(f"  HF profile updated: https://huggingface.co/{author}")
     except Exception as e:

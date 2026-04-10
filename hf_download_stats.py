@@ -23,8 +23,16 @@ from huggingface_hub import HfApi
 def get_stats(author: str) -> dict:
     api = HfApi()
 
-    models = list(api.list_models(author=author, sort="downloads", direction=-1))
-    datasets = list(api.list_datasets(author=author, sort="downloads", direction=-1))
+    models = sorted(
+        api.list_models(author=author, sort="downloads"),
+        key=lambda m: m.downloads or 0,
+        reverse=True,
+    )
+    datasets = sorted(
+        api.list_datasets(author=author, sort="downloads"),
+        key=lambda d: d.downloads or 0,
+        reverse=True,
+    )
 
     model_stats = []
     for m in models:

@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-04-28 09:57:27 UTC
+**Last updated:** 2026-04-29 09:51:52 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -145,4 +145,5 @@
 | 2026-04-26 | 86 | 6 | 28,100 | 86 | 28,186 | 3 |
 | 2026-04-27 | 86 | 6 | 28,924 | 79 | 29,003 | 3 |
 | 2026-04-28 | 86 | 6 | 29,336 | 78 | 29,414 | 3 |
+| 2026-04-29 | 86 | 6 | 29,336 | 78 | 29,414 | 3 |
 

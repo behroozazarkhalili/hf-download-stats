@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-06-09 10:23:16 UTC
+**Last updated:** 2026-06-10 10:35:03 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -13,7 +13,7 @@
 | Datasets | 6 |
 | Dataset Downloads | **137** |
 | **Total Downloads** | **7,120** |
-| Total Likes | 14 |
+| Total Likes | 15 |
 
 ## Models (98)
 
@@ -71,7 +71,7 @@
 | 50 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF) | 24 | 0 |  |
 | 51 | [Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF) | 23 | 0 |  |
 | 52 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM) | 22 | 0 |  |
-| 53 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth) | 21 | 0 |  |
+| 53 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth) | 21 | 1 |  |
 | 54 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM) | 20 | 1 |  |
 | 55 | [Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth) | 20 | 0 |  |
 | 56 | [LFM2.5-1.2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM-Unsloth) | 20 | 0 |  |
@@ -135,7 +135,6 @@
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-05-11 | 98 | 6 | 31,763 | 75 | 31,838 | 4 |
 | 2026-05-12 | 98 | 6 | 31,763 | 75 | 31,838 | 4 |
 | 2026-05-13 | 98 | 6 | 31,877 | 75 | 31,952 | 4 |
 | 2026-05-14 | 98 | 6 | 32,113 | 75 | 32,188 | 5 |
@@ -165,4 +164,5 @@
 | 2026-06-07 | 98 | 6 | 7,827 | 128 | 7,955 | 14 |
 | 2026-06-08 | 98 | 6 | 7,745 | 127 | 7,872 | 14 |
 | 2026-06-09 | 98 | 6 | 6,983 | 137 | 7,120 | 14 |
+| 2026-06-10 | 98 | 6 | 6,983 | 137 | 7,120 | 15 |
 

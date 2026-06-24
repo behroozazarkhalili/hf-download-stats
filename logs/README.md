@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-06-23 10:22:32 UTC
+**Last updated:** 2026-06-24 10:15:15 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -13,7 +13,7 @@
 | Datasets | 6 |
 | Dataset Downloads | **92** |
 | **Total Downloads** | **7,558** |
-| Total Likes | 17 |
+| Total Likes | 21 |
 
 ## Models (110)
 
@@ -61,14 +61,14 @@
 | 40 | [Gemma4-E4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-Function-Calling-xLAM-Unsloth) | 73 | 0 |  |
 | 41 | [Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth) | 73 | 1 |  |
 | 42 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 68 | 0 |  |
-| 43 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 64 | 0 |  |
+| 43 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 64 | 2 |  |
 | 44 | [Qwen3-1.7B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-SFT-UltraChat-GGUF) | 60 | 0 |  |
 | 45 | [Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF) | 60 | 0 |  |
 | 46 | [FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth) | 57 | 0 |  |
-| 47 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth) | 54 | 0 |  |
+| 47 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth) | 54 | 1 |  |
 | 48 | [FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth) | 50 | 0 |  |
 | 49 | [FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth) | 48 | 0 |  |
-| 50 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth) | 44 | 0 |  |
+| 50 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth) | 44 | 1 |  |
 | 51 | [Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF) | 42 | 0 |  |
 | 52 | [Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF) | 38 | 0 |  |
 | 53 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF) | 38 | 0 |  |
@@ -147,7 +147,6 @@
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-05-25 | 98 | 6 | 11,792 | 119 | 11,911 | 12 |
 | 2026-05-26 | 98 | 6 | 11,433 | 126 | 11,559 | 12 |
 | 2026-05-27 | 98 | 6 | 11,418 | 126 | 11,544 | 12 |
 | 2026-05-28 | 98 | 6 | 11,364 | 134 | 11,498 | 12 |
@@ -177,4 +176,5 @@
 | 2026-06-21 | 101 | 6 | 5,943 | 112 | 6,055 | 15 |
 | 2026-06-22 | 110 | 6 | 6,284 | 95 | 6,379 | 15 |
 | 2026-06-23 | 110 | 6 | 7,466 | 92 | 7,558 | 17 |
+| 2026-06-24 | 110 | 6 | 7,466 | 92 | 7,558 | 21 |
 

@@ -1,21 +1,21 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-08-04 11:30:53 UTC
+**Last updated:** 2026-08-05 11:26:25 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Models | 176 |
+| Models | 177 |
 | Model Downloads | **11,381** |
 | Datasets | 8 |
 | Dataset Downloads | **233** |
 | **Total Downloads** | **11,614** |
 | Total Likes | 35 |
 
-## Models (176)
+## Models (177)
 
 | # | Model | Downloads | Likes | Last Modified |
 |--:|-------|----------:|------:|--------------:|
@@ -194,7 +194,8 @@
 | 173 | [granite-4.0-micro-GRPO-NuminaMath-100K](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-100K) | 0 | 0 |  |
 | 174 | [granite-4.0-micro-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-100K-GGUF) | 0 | 0 |  |
 | 175 | [Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF) | 0 | 0 |  |
-| 176 | [wordle-grpo-qwen3-0-6b-model](https://huggingface.co/ermiaazarkhalili/wordle-grpo-qwen3-0-6b-model) | 0 | 0 |  |
+| 176 | [Agents-A1-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint) | 0 | 0 |  |
+| 177 | [Agents-A1-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint-GGUF) | 0 | 0 |  |
 | | **Total** | **11,381** | | |
 
 ## Datasets (8)
@@ -215,7 +216,6 @@
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-07-06 | 168 | 7 | 20,081 | 157 | 20,238 | 27 |
 | 2026-07-07 | 170 | 7 | 21,031 | 186 | 21,217 | 27 |
 | 2026-07-08 | 170 | 7 | 21,031 | 186 | 21,217 | 27 |
 | 2026-07-09 | 175 | 7 | 22,284 | 195 | 22,479 | 28 |
@@ -245,4 +245,5 @@
 | 2026-08-02 | 176 | 7 | 13,406 | 246 | 13,652 | 35 |
 | 2026-08-03 | 176 | 8 | 12,340 | 246 | 12,586 | 35 |
 | 2026-08-04 | 176 | 8 | 11,381 | 233 | 11,614 | 35 |
+| 2026-08-05 | 177 | 8 | 11,381 | 233 | 11,614 | 35 |
 

@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-08-11 10:07:54 UTC
+**Last updated:** 2026-08-12 10:16:57 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -13,7 +13,7 @@
 | Datasets | 8 |
 | Dataset Downloads | **215** |
 | **Total Downloads** | **33,695** |
-| Total Likes | 41 |
+| Total Likes | 42 |
 
 ## Models (202)
 
@@ -82,7 +82,7 @@
 | 61 | [FastContext-4B-SFT_base-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-Glint) | 257 | 0 |  |
 | 62 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 246 | 0 |  |
 | 63 | [Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF) | 241 | 0 |  |
-| 64 | [LFM2.5-2.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-Glint) | 233 | 0 |  |
+| 64 | [LFM2.5-2.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-Glint) | 233 | 1 |  |
 | 65 | [Qwen3-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-Glint-GGUF) | 231 | 1 |  |
 | 66 | [Gemma4-E4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-Glint-GGUF) | 217 | 0 |  |
 | 67 | [Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 210 | 0 |  |
@@ -241,7 +241,6 @@
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-07-13 | 176 | 7 | 24,029 | 202 | 24,231 | 29 |
 | 2026-07-14 | 176 | 7 | 24,301 | 202 | 24,503 | 29 |
 | 2026-07-15 | 176 | 7 | 24,301 | 202 | 24,503 | 29 |
 | 2026-07-16 | 176 | 7 | 24,337 | 193 | 24,530 | 29 |
@@ -271,4 +270,5 @@
 | 2026-08-09 | 197 | 8 | 31,756 | 204 | 31,960 | 41 |
 | 2026-08-10 | 200 | 8 | 32,425 | 208 | 32,633 | 41 |
 | 2026-08-11 | 202 | 8 | 33,480 | 215 | 33,695 | 41 |
+| 2026-08-12 | 202 | 8 | 33,480 | 215 | 33,695 | 42 |
 

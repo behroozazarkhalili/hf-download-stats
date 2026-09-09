@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-09-08 09:24:27 UTC
+**Last updated:** 2026-09-09 09:24:36 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -11,8 +11,8 @@
 | Models | 223 |
 | Model Downloads | **42,327** |
 | Datasets | 8 |
-| Dataset Downloads | **121** |
-| **Total Downloads** | **42,448** |
+| Dataset Downloads | **120** |
+| **Total Downloads** | **42,447** |
 | Total Likes | 51 |
 
 ## Models (223)
@@ -252,17 +252,16 @@
 | 2 | [alpaca-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-high-prob-qwen-0.5b-10k) | 23 | 0 | 2025-12-16 |
 | 3 | [orca-mini-short-100tok](https://huggingface.co/ermiaazarkhalili/orca-mini-short-100tok) | 23 | 0 | 2025-12-20 |
 | 4 | [datasets-genbank-test](https://huggingface.co/ermiaazarkhalili/datasets-genbank-test) | 13 | 0 | 2026-07-03 |
-| 5 | [wordle-grpo-runs](https://huggingface.co/ermiaazarkhalili/wordle-grpo-runs) | 9 | 0 | 2026-08-02 |
-| 6 | [alpaca-cleaned-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-cleaned-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
-| 7 | [alpaca-gpt4-en-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-en-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
+| 5 | [alpaca-cleaned-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-cleaned-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
+| 6 | [alpaca-gpt4-en-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-en-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
+| 7 | [wordle-grpo-runs](https://huggingface.co/ermiaazarkhalili/wordle-grpo-runs) | 8 | 0 | 2026-08-02 |
 | 8 | [orca-mini-v1-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/orca-mini-v1-high-prob-qwen-0.5b-10k) | 7 | 0 | 2025-12-16 |
-| | **Total** | **121** | | |
+| | **Total** | **120** | | |
 
 ## Daily Trend
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-08-10 | 200 | 8 | 32,425 | 208 | 32,633 | 41 |
 | 2026-08-11 | 202 | 8 | 33,480 | 215 | 33,695 | 41 |
 | 2026-08-12 | 202 | 8 | 33,480 | 215 | 33,695 | 42 |
 | 2026-08-13 | 202 | 8 | 40,844 | 218 | 41,062 | 42 |
@@ -292,4 +291,5 @@
 | 2026-09-06 | 221 | 8 | 42,697 | 129 | 42,826 | 50 |
 | 2026-09-07 | 221 | 8 | 43,025 | 129 | 43,154 | 50 |
 | 2026-09-08 | 223 | 8 | 42,327 | 121 | 42,448 | 51 |
+| 2026-09-09 | 223 | 8 | 42,327 | 120 | 42,447 | 51 |
 

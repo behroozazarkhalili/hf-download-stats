@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-09-10 09:23:51 UTC
+**Last updated:** 2026-09-11 09:23:42 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -11,8 +11,8 @@
 | Models | 223 |
 | Model Downloads | **39,521** |
 | Datasets | 8 |
-| Dataset Downloads | **120** |
-| **Total Downloads** | **39,641** |
+| Dataset Downloads | **116** |
+| **Total Downloads** | **39,637** |
 | Total Likes | 51 |
 
 ## Models (223)
@@ -249,20 +249,19 @@
 | # | Dataset | Downloads | Likes | Last Modified |
 |--:|---------|----------:|------:|--------------:|
 | 1 | [alpaca-gpt4-short-100tok](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-short-100tok) | 30 | 0 | 2025-12-20 |
-| 2 | [alpaca-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-high-prob-qwen-0.5b-10k) | 23 | 0 | 2025-12-16 |
-| 3 | [orca-mini-short-100tok](https://huggingface.co/ermiaazarkhalili/orca-mini-short-100tok) | 23 | 0 | 2025-12-20 |
-| 4 | [datasets-genbank-test](https://huggingface.co/ermiaazarkhalili/datasets-genbank-test) | 13 | 0 | 2026-07-03 |
+| 2 | [orca-mini-short-100tok](https://huggingface.co/ermiaazarkhalili/orca-mini-short-100tok) | 24 | 0 | 2025-12-20 |
+| 3 | [alpaca-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-high-prob-qwen-0.5b-10k) | 23 | 0 | 2025-12-16 |
+| 4 | [datasets-genbank-test](https://huggingface.co/ermiaazarkhalili/datasets-genbank-test) | 9 | 0 | 2026-07-03 |
 | 5 | [alpaca-cleaned-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-cleaned-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
 | 6 | [alpaca-gpt4-en-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-en-high-prob-qwen-0.5b-10k) | 8 | 0 | 2025-12-16 |
 | 7 | [wordle-grpo-runs](https://huggingface.co/ermiaazarkhalili/wordle-grpo-runs) | 8 | 0 | 2026-08-02 |
-| 8 | [orca-mini-v1-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/orca-mini-v1-high-prob-qwen-0.5b-10k) | 7 | 0 | 2025-12-16 |
-| | **Total** | **120** | | |
+| 8 | [orca-mini-v1-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/orca-mini-v1-high-prob-qwen-0.5b-10k) | 6 | 0 | 2025-12-16 |
+| | **Total** | **116** | | |
 
 ## Daily Trend
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-08-12 | 202 | 8 | 33,480 | 215 | 33,695 | 42 |
 | 2026-08-13 | 202 | 8 | 40,844 | 218 | 41,062 | 42 |
 | 2026-08-14 | 203 | 8 | 45,560 | 215 | 45,775 | 42 |
 | 2026-08-15 | 203 | 8 | 46,300 | 211 | 46,511 | 42 |
@@ -292,4 +291,5 @@
 | 2026-09-08 | 223 | 8 | 42,327 | 121 | 42,448 | 51 |
 | 2026-09-09 | 223 | 8 | 42,327 | 120 | 42,447 | 51 |
 | 2026-09-10 | 223 | 8 | 39,521 | 120 | 39,641 | 51 |
+| 2026-09-11 | 223 | 8 | 39,521 | 116 | 39,637 | 51 |
 

@@ -1,7 +1,7 @@
 # HuggingFace Download Stats
 
 **Author:** [ermiaazarkhalili](https://huggingface.co/ermiaazarkhalili)
-**Last updated:** 2026-11-21 09:14:48 UTC
+**Last updated:** 2026-11-22 09:14:55 UTC
 **Updated daily by GitHub Actions**
 
 ## Summary
@@ -9,226 +9,226 @@
 | Metric | Count |
 |--------|------:|
 | Models | 227 |
-| Model Downloads | **22,961** |
+| Model Downloads | **23,524** |
 | Datasets | 8 |
 | Dataset Downloads | **266** |
-| **Total Downloads** | **23,227** |
+| **Total Downloads** | **23,790** |
 | Total Likes | 65 |
 
 ## Models (227)
 
 | # | Model | Downloads | Likes | Last Modified |
 |--:|-------|----------:|------:|--------------:|
-| 1 | [Qwen3.8-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-Function-Calling-xLAM-Unsloth-GGUF) | 4,732 | 2 |  |
-| 2 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 1,279 | 0 |  |
-| 3 | [Qwen3.8-4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-Function-Calling-xLAM-Unsloth-GGUF) | 963 | 0 |  |
-| 4 | [Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 535 | 0 |  |
-| 5 | [Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 483 | 0 |  |
-| 6 | [Qwen3.8-2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-Function-Calling-xLAM-Unsloth-GGUF) | 473 | 0 |  |
-| 7 | [FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 466 | 0 |  |
-| 8 | [LFM2.5-1.2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM-Unsloth-GGUF) | 431 | 0 |  |
-| 9 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 424 | 0 |  |
-| 10 | [Granite-4.1-8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-Function-Calling-xLAM-Unsloth-GGUF) | 414 | 0 |  |
-| 11 | [Granite-4.1-3B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-Function-Calling-xLAM-Unsloth-GGUF) | 383 | 0 |  |
-| 12 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 367 | 1 |  |
-| 13 | [Qwen3.8-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-Glint-GGUF) | 363 | 0 |  |
-| 14 | [Ornith-1.5-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-Function-Calling-xLAM-Unsloth-GGUF) | 363 | 1 |  |
-| 15 | [FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth-GGUF) | 329 | 0 |  |
-| 16 | [Qwen3.8-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-Glint-GGUF) | 325 | 3 |  |
-| 17 | [Qwen3.8-4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-GGUF) | 319 | 1 |  |
-| 18 | [Ornith-1.5-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-Glint-GGUF) | 297 | 0 |  |
-| 19 | [Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 281 | 0 |  |
-| 20 | [FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth-GGUF) | 272 | 0 |  |
-| 21 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 255 | 3 |  |
-| 22 | [Ornith-1.5-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-GGUF) | 246 | 0 |  |
-| 23 | [Qwen3.5-0.8B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-GGUF) | 235 | 0 |  |
-| 24 | [Qwen3.8-2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-GGUF) | 196 | 0 |  |
-| 25 | [Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 190 | 1 |  |
-| 26 | [Qwen3.8-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-GGUF) | 177 | 0 |  |
-| 27 | [Agents-A1-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint-GGUF) | 167 | 0 |  |
-| 28 | [Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth-GGUF) | 165 | 0 |  |
-| 29 | [Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 163 | 0 |  |
-| 30 | [Carnice-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-GGUF) | 163 | 0 |  |
-| 31 | [Qwen3.5-2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-Glint) | 145 | 1 |  |
-| 32 | [Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 143 | 1 |  |
-| 33 | [Gemma4-E2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-Function-Calling-xLAM-Unsloth-GGUF) | 138 | 0 |  |
-| 34 | [Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 137 | 0 |  |
-| 35 | [LFM2-1.2B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-1.2B-GRPO-NuminaMath-10K-GGUF) | 134 | 0 |  |
-| 36 | [Carnice-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-Function-Calling-xLAM-Unsloth-GGUF) | 132 | 0 |  |
-| 37 | [Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF) | 130 | 0 |  |
-| 38 | [Olmo-3-7B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Olmo-3-7B-SFT-Fable5-GGUF) | 128 | 0 |  |
-| 39 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-GGUF) | 126 | 1 |  |
-| 40 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth-GGUF) | 123 | 1 |  |
-| 41 | [FastContext-4B-RL_base-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-Glint-GGUF) | 120 | 0 |  |
-| 42 | [Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 117 | 1 |  |
-| 43 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth-GGUF) | 115 | 0 |  |
-| 44 | [Qwen2.5-1.5B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-SFT-UltraChat-GGUF) | 111 | 0 |  |
-| 45 | [Qwen3-8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-Function-Calling-xLAM-Unsloth-GGUF) | 110 | 0 |  |
-| 46 | [Qwen2.5-3B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-Instruct_Function_Calling_xLAM-GGUF) | 104 | 0 |  |
-| 47 | [Gemma4-E4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-Function-Calling-xLAM-Unsloth-GGUF) | 103 | 0 |  |
-| 48 | [LFM2.5-2.6B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-GGUF) | 100 | 0 |  |
-| 49 | [Qwen3-4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-Function-Calling-xLAM-Unsloth-GGUF) | 97 | 0 |  |
-| 50 | [Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF) | 95 | 0 |  |
-| 51 | [FastContext-4B-SFT_base-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-Glint-GGUF) | 92 | 0 |  |
-| 52 | [Qwen3.5-0.8B-Function-Calling-xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-GGUF) | 92 | 0 |  |
-| 53 | [Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF) | 88 | 0 |  |
-| 54 | [Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 87 | 0 |  |
-| 55 | [Qwen3.8-2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-Glint-GGUF) | 84 | 1 |  |
-| 56 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 83 | 0 |  |
-| 57 | [Qwen2.5-0.5B-SFT-OpenHermes-2.5-100-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-SFT-OpenHermes-2.5-100-GGUF) | 82 | 0 |  |
-| 58 | [Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K-GGUF) | 82 | 1 |  |
-| 59 | [FastContext-4B-SFT_base-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-GGUF) | 80 | 0 |  |
-| 60 | [Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF) | 77 | 0 |  |
-| 61 | [LFM2-350M-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-350M-GRPO-NuminaMath-10K-GGUF) | 75 | 0 |  |
+| 1 | [Qwen3.8-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-Function-Calling-xLAM-Unsloth-GGUF) | 4,785 | 2 |  |
+| 2 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 1,344 | 0 |  |
+| 3 | [Qwen3.8-4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-Function-Calling-xLAM-Unsloth-GGUF) | 966 | 0 |  |
+| 4 | [Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 594 | 0 |  |
+| 5 | [Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 515 | 0 |  |
+| 6 | [FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 465 | 0 |  |
+| 7 | [Qwen3.8-2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-Function-Calling-xLAM-Unsloth-GGUF) | 463 | 0 |  |
+| 8 | [Granite-4.1-8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-Function-Calling-xLAM-Unsloth-GGUF) | 447 | 0 |  |
+| 9 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 428 | 0 |  |
+| 10 | [LFM2.5-1.2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM-Unsloth-GGUF) | 424 | 0 |  |
+| 11 | [Granite-4.1-3B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-Function-Calling-xLAM-Unsloth-GGUF) | 418 | 0 |  |
+| 12 | [Ornith-1.5-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-Function-Calling-xLAM-Unsloth-GGUF) | 406 | 1 |  |
+| 13 | [Qwen3.8-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-Glint-GGUF) | 366 | 0 |  |
+| 14 | [Qwen3.8-4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-GGUF) | 362 | 1 |  |
+| 15 | [Ornith-1.5-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-Glint-GGUF) | 353 | 0 |  |
+| 16 | [FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth-GGUF) | 351 | 0 |  |
+| 17 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 345 | 1 |  |
+| 18 | [FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth-GGUF) | 335 | 0 |  |
+| 19 | [Qwen3.8-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-Glint-GGUF) | 328 | 3 |  |
+| 20 | [Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 270 | 0 |  |
+| 21 | [Ornith-1.5-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-GGUF) | 263 | 0 |  |
+| 22 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 259 | 3 |  |
+| 23 | [Qwen3.8-2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-GGUF) | 231 | 0 |  |
+| 24 | [Qwen3.5-0.8B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-GGUF) | 222 | 0 |  |
+| 25 | [Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 181 | 1 |  |
+| 26 | [Qwen3.8-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-GGUF) | 181 | 0 |  |
+| 27 | [Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 178 | 0 |  |
+| 28 | [Agents-A1-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint-GGUF) | 173 | 0 |  |
+| 29 | [Carnice-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-GGUF) | 166 | 0 |  |
+| 30 | [Qwen3.5-2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-Glint) | 145 | 1 |  |
+| 31 | [Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth-GGUF) | 140 | 0 |  |
+| 32 | [FastContext-4B-RL_base-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-Glint-GGUF) | 138 | 0 |  |
+| 33 | [Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 137 | 1 |  |
+| 34 | [Carnice-9B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-Function-Calling-xLAM-Unsloth-GGUF) | 134 | 0 |  |
+| 35 | [Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-Instruct_Function_Calling_xLAM-GGUF) | 130 | 0 |  |
+| 36 | [Gemma4-E2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-Function-Calling-xLAM-Unsloth-GGUF) | 130 | 0 |  |
+| 37 | [Olmo-3-7B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Olmo-3-7B-SFT-Fable5-GGUF) | 129 | 0 |  |
+| 38 | [Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 125 | 0 |  |
+| 39 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth-GGUF) | 120 | 1 |  |
+| 40 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-GGUF) | 114 | 1 |  |
+| 41 | [FastContext-4B-SFT_base-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-Glint-GGUF) | 114 | 0 |  |
+| 42 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth-GGUF) | 110 | 0 |  |
+| 43 | [Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 109 | 1 |  |
+| 44 | [Qwen2.5-3B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-Instruct_Function_Calling_xLAM-GGUF) | 108 | 0 |  |
+| 45 | [LFM2-1.2B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-1.2B-GRPO-NuminaMath-10K-GGUF) | 104 | 0 |  |
+| 46 | [Qwen3-8B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-Function-Calling-xLAM-Unsloth-GGUF) | 103 | 0 |  |
+| 47 | [Gemma4-E4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-Function-Calling-xLAM-Unsloth-GGUF) | 102 | 0 |  |
+| 48 | [Qwen3-4B-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-Function-Calling-xLAM-Unsloth-GGUF) | 101 | 0 |  |
+| 49 | [Qwen3.5-2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-Glint-GGUF) | 98 | 0 |  |
+| 50 | [LFM2.5-2.6B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-GGUF) | 98 | 0 |  |
+| 51 | [Qwen2.5-1.5B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-SFT-UltraChat-GGUF) | 94 | 0 |  |
+| 52 | [Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-Instruct_Function_Calling_xLAM-GGUF) | 94 | 0 |  |
+| 53 | [Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct_Function_Calling_xLAM-GGUF) | 94 | 0 |  |
+| 54 | [Qwen3.8-2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-Glint-GGUF) | 92 | 1 |  |
+| 55 | [Qwen3.5-0.8B-Function-Calling-xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-GGUF) | 91 | 0 |  |
+| 56 | [Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K-GGUF) | 87 | 1 |  |
+| 57 | [FastContext-4B-SFT_base-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-GGUF) | 84 | 0 |  |
+| 58 | [Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 80 | 0 |  |
+| 59 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth-GGUF) | 79 | 0 |  |
+| 60 | [Qwen3.5-0.8B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM) | 78 | 1 |  |
+| 61 | [Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-14B-Instruct_Function_Calling_xLAM-GGUF) | 77 | 0 |  |
 | 62 | [Qwen3-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-Glint-GGUF) | 74 | 1 |  |
-| 63 | [Qwen3.5-0.8B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM) | 72 | 1 |  |
-| 64 | [Gemma4-E2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5-GGUF) | 72 | 0 |  |
+| 63 | [Gemma4-E2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5-GGUF) | 72 | 0 |  |
+| 64 | [Qwen2.5-0.5B-SFT-OpenHermes-2.5-100-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-SFT-OpenHermes-2.5-100-GGUF) | 71 | 0 |  |
 | 65 | [Qwen3.5-4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5-GGUF) | 71 | 0 |  |
 | 66 | [Qwen3-0.6B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-0.6B-SFT-UltraChat-GGUF) | 70 | 0 |  |
 | 67 | [Granite-4.1-3B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5-GGUF) | 70 | 0 |  |
-| 68 | [LFM2.5-350M-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Fable5-Glint-GGUF) | 69 | 0 |  |
-| 69 | [LFM2.5-350M-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-Function-Calling-xLAM-Unsloth-GGUF) | 68 | 0 |  |
-| 70 | [Granite-4.1-3B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5-Glint-GGUF) | 68 | 0 |  |
-| 71 | [Granite-4.1-8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-Function-Calling-xLAM-Unsloth) | 64 | 2 |  |
-| 72 | [Qwen3.5-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-GGUF) | 63 | 0 |  |
+| 68 | [Granite-4.1-3B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5-Glint-GGUF) | 68 | 0 |  |
+| 69 | [LFM2.5-350M-Function-Calling-xLAM-Unsloth-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-Function-Calling-xLAM-Unsloth-GGUF) | 67 | 0 |  |
+| 70 | [LFM2.5-350M-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Fable5-Glint-GGUF) | 67 | 0 |  |
+| 71 | [LFM2-350M-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-350M-GRPO-NuminaMath-10K-GGUF) | 66 | 0 |  |
+| 72 | [Granite-4.1-8B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-GGUF) | 63 | 1 |  |
 | 73 | [LFM2.5-2.6B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-Glint-GGUF) | 63 | 0 |  |
-| 74 | [LFM2-700M-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-700M-GRPO-NuminaMath-10K-GGUF) | 62 | 0 |  |
+| 74 | [Qwen3.5-9B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-GGUF) | 62 | 0 |  |
 | 75 | [Qwen3-8B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5-GGUF) | 62 | 0 |  |
-| 76 | [Granite-4.1-8B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-GGUF) | 61 | 1 |  |
-| 77 | [Gemma4-E4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-GGUF) | 61 | 0 |  |
-| 78 | [Qwen3-1.7B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-SFT-UltraChat-GGUF) | 59 | 0 |  |
-| 79 | [Qwen3.5-2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-GGUF) | 54 | 0 |  |
-| 80 | [Qwen2.5-1.5B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-Instruct_Function_Calling_xLAM) | 52 | 0 |  |
-| 81 | [Qwen3-0.6B-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-0.6B-GRPO-NuminaMath-100K-GGUF) | 51 | 0 |  |
-| 82 | [Qwen3-4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-GGUF) | 51 | 0 |  |
-| 83 | [FastContext-4B-RL_base-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-GGUF) | 50 | 0 |  |
-| 84 | [Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF) | 49 | 0 |  |
-| 85 | [Carnice-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-Glint-GGUF) | 47 | 0 |  |
-| 86 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF) | 44 | 0 |  |
-| 87 | [SmolLM3-3B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/SmolLM3-3B-GRPO-NuminaMath-10K-GGUF) | 43 | 0 |  |
-| 88 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM) | 42 | 1 |  |
-| 89 | [Qwen2.5-0.5B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-SFT-UltraChat-GGUF) | 42 | 0 |  |
-| 90 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM) | 41 | 0 |  |
-| 91 | [Qwen3.5-2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-Glint-GGUF) | 41 | 0 |  |
-| 92 | [Qwen3.5-2B-Function-Calling-xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-GGUF) | 41 | 0 |  |
-| 93 | [Gemma4-E2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5) | 40 | 0 |  |
-| 94 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF) | 39 | 0 |  |
-| 95 | [Granite-4.1-3B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5) | 39 | 1 |  |
-| 96 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 38 | 2 |  |
-| 97 | [LFM2.5-350M-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-Function-Calling-xLAM-Unsloth) | 37 | 0 |  |
-| 98 | [Granite-4.1-8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-Glint) | 37 | 1 |  |
-| 99 | [Llama-3-8B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3-8B-Instruct_Function_Calling_xLAM) | 36 | 0 |  |
+| 76 | [Gemma4-E4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-GGUF) | 61 | 0 |  |
+| 77 | [Qwen3-1.7B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-SFT-UltraChat-GGUF) | 60 | 0 |  |
+| 78 | [Granite-4.1-8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-Function-Calling-xLAM-Unsloth) | 60 | 2 |  |
+| 79 | [Qwen3.5-2B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5-GGUF) | 60 | 0 |  |
+| 80 | [LFM2-700M-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2-700M-GRPO-NuminaMath-10K-GGUF) | 57 | 0 |  |
+| 81 | [Qwen2.5-1.5B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-1.5B-Instruct_Function_Calling_xLAM) | 51 | 0 |  |
+| 82 | [Qwen3-0.6B-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-0.6B-GRPO-NuminaMath-100K-GGUF) | 51 | 0 |  |
+| 83 | [Qwen3-4B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-GGUF) | 51 | 0 |  |
+| 84 | [Carnice-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-Glint-GGUF) | 48 | 0 |  |
+| 85 | [Qwen2.5-0.5B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-SFT-UltraChat-GGUF) | 47 | 0 |  |
+| 86 | [FastContext-4B-RL_base-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-GGUF) | 47 | 0 |  |
+| 87 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM-GGUF) | 45 | 0 |  |
+| 88 | [Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-GRPO-NuminaMath-100K-GGUF) | 45 | 0 |  |
+| 89 | [SmolLM3-3B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/SmolLM3-3B-GRPO-NuminaMath-10K-GGUF) | 45 | 0 |  |
+| 90 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM-GGUF) | 44 | 0 |  |
+| 91 | [Llama-3.2-1B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.2-1B-Instruct_Function_Calling_xLAM) | 41 | 1 |  |
+| 92 | [Qwen2.5-0.5B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-0.5B-Instruct_Function_Calling_xLAM) | 41 | 0 |  |
+| 93 | [Gemma4-E2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5) | 41 | 0 |  |
+| 94 | [Qwen3.5-2B-Function-Calling-xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-GGUF) | 38 | 0 |  |
+| 95 | [Granite-4.1-3B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5) | 38 | 1 |  |
+| 96 | [Llama-3-8B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3-8B-Instruct_Function_Calling_xLAM) | 36 | 0 |  |
+| 97 | [LFM2.5-350M-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-Function-Calling-xLAM-Unsloth) | 36 | 0 |  |
+| 98 | [Granite-4.1-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-Function-Calling-xLAM-Unsloth) | 36 | 2 |  |
+| 99 | [Granite-4.1-8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-Glint-GGUF) | 36 | 0 |  |
 | 100 | [Gemma4-E2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5-Glint-GGUF) | 36 | 0 |  |
-| 101 | [Granite-4.1-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-Function-Calling-xLAM-Unsloth) | 35 | 2 |  |
-| 102 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth) | 35 | 2 |  |
-| 103 | [Granite-4.1-8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-Glint-GGUF) | 35 | 0 |  |
-| 104 | [Qwen2.5-3B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-Instruct_Function_Calling_xLAM) | 33 | 0 |  |
-| 105 | [LFM2.5-VL-450M-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-450M-SFT-Fable5-Glint-GGUF) | 33 | 0 |  |
-| 106 | [Qwen3.8-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-Function-Calling-xLAM-Unsloth) | 33 | 1 |  |
-| 107 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning) | 31 | 2 |  |
-| 108 | [Llama-3.2-3B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct_Function_Calling_xLAM) | 29 | 0 |  |
-| 109 | [Qwen3-4B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-UltraChat-GGUF) | 29 | 0 |  |
-| 110 | [Qwen2.5-7B-SFT-Capybara-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-SFT-Capybara-GGUF) | 29 | 0 |  |
+| 101 | [VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 35 | 2 |  |
+| 102 | [VibeThinker-3B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-Function-Calling-xLAM-Unsloth) | 34 | 2 |  |
+| 103 | [Qwen3.8-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-Function-Calling-xLAM-Unsloth) | 34 | 1 |  |
+| 104 | [Granite-4.1-8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5-Glint) | 33 | 1 |  |
+| 105 | [Qwen2.5-3B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-Instruct_Function_Calling_xLAM) | 31 | 0 |  |
+| 106 | [Qwen3-4B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-UltraChat-GGUF) | 31 | 0 |  |
+| 107 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning) | 30 | 2 |  |
+| 108 | [OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K-GGUF) | 30 | 0 |  |
+| 109 | [LFM2.5-VL-450M-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-450M-SFT-Fable5-Glint-GGUF) | 30 | 0 |  |
+| 110 | [LFM2.5-VL-1.6B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-1.6B-SFT-Fable5-Glint-GGUF) | 29 | 0 |  |
 | 111 | [Qwen3.8-4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-Function-Calling-xLAM-Unsloth) | 29 | 1 |  |
-| 112 | [Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth) | 28 | 1 |  |
-| 113 | [OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K-GGUF) | 27 | 0 |  |
-| 114 | [LFM2.5-VL-1.6B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-1.6B-SFT-Fable5-Glint-GGUF) | 27 | 0 |  |
-| 115 | [Ornith-1.5-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-Function-Calling-xLAM-Unsloth) | 27 | 0 |  |
-| 116 | [Qwen3-4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-Function-Calling-xLAM-Unsloth) | 26 | 0 |  |
-| 117 | [Qwen3-8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-Function-Calling-xLAM-Unsloth) | 26 | 0 |  |
-| 118 | [VibeThinker-3B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Fable5-Glint) | 26 | 1 |  |
-| 119 | [VibeThinker-3B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Fable5-Glint-GGUF) | 26 | 1 |  |
-| 120 | [Qwen2.5-7B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-Instruct_Function_Calling_xLAM) | 25 | 0 |  |
-| 121 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth) | 25 | 0 |  |
-| 122 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth) | 25 | 1 |  |
-| 123 | [Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 25 | 3 |  |
-| 124 | [LFM2.5-1.2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Fable5-Glint-GGUF) | 25 | 1 |  |
-| 125 | [Qwen3.8-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-Glint) | 25 | 1 |  |
-| 126 | [Qwen3.8-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-Function-Calling-xLAM-Unsloth) | 25 | 0 |  |
-| 127 | [reasoning-gym-chain-sum-qwen3-0-6b-grpo-model-GGUF](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-0-6b-grpo-model-GGUF) | 24 | 0 |  |
-| 128 | [MiniCPM5-1B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5) | 24 | 2 |  |
-| 129 | [Llama-3-8B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3-8B-Instruct_Function_Calling_xLAM-GGUF) | 23 | 0 |  |
-| 130 | [Gemma4-E4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-Glint-GGUF) | 23 | 0 |  |
-| 131 | [Qwen3.5-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5-Glint-GGUF) | 23 | 0 |  |
-| 132 | [MiniCPM5-1B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-GGUF) | 23 | 1 |  |
-| 133 | [Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth) | 22 | 0 |  |
-| 134 | [Qwen3-8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5-Glint-GGUF) | 22 | 0 |  |
-| 135 | [reasoning-gym-chain-sum-qwen3-1-7b-grpo-GGUF](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-1-7b-grpo-GGUF) | 22 | 0 |  |
-| 136 | [Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth) | 21 | 0 |  |
-| 137 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning) | 21 | 0 |  |
-| 138 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth) | 21 | 1 |  |
-| 139 | [FastContext-4B-RL_base-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-Glint) | 21 | 0 |  |
-| 140 | [Gemma4-E4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5) | 21 | 1 |  |
-| 141 | [Qwen3.8-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5) | 21 | 0 |  |
-| 142 | [Qwen2.5-14B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-14B-Instruct_Function_Calling_xLAM) | 20 | 0 |  |
-| 143 | [qwen2.5-7b-instruct-trl-sft-ChartQA-GGUF](https://huggingface.co/ermiaazarkhalili/qwen2.5-7b-instruct-trl-sft-ChartQA-GGUF) | 20 | 0 |  |
-| 144 | [Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth) | 20 | 1 |  |
-| 145 | [FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth) | 20 | 0 |  |
-| 146 | [Gemma4-E4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-Glint) | 20 | 1 |  |
-| 147 | [Qwen3-0.6B-GRPO-NuminaMath-100K](https://huggingface.co/ermiaazarkhalili/Qwen3-0.6B-GRPO-NuminaMath-100K) | 20 | 0 |  |
-| 148 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth) | 19 | 1 |  |
-| 149 | [Gemma4-E4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-Function-Calling-xLAM-Unsloth) | 19 | 0 |  |
-| 150 | [Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth) | 19 | 2 |  |
-| 151 | [FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth) | 19 | 0 |  |
-| 152 | [granite-4.0-micro-GRPO-NuminaMath-20K-GGUF](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-20K-GGUF) | 19 | 0 |  |
-| 153 | [Qwen3-1.7B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-GRPO-NuminaMath-10K-GGUF) | 19 | 0 |  |
-| 154 | [LFM2.5-2.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-Glint) | 19 | 1 |  |
-| 155 | [Ornith-1.5-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5) | 19 | 0 |  |
-| 156 | [FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth) | 18 | 0 |  |
-| 157 | [Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF) | 18 | 0 |  |
-| 158 | [Carnice-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5) | 18 | 0 |  |
-| 159 | [MiniCPM5-1B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-Glint) | 18 | 1 |  |
-| 160 | [Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth) | 17 | 1 |  |
-| 161 | [Carnice-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-Glint) | 17 | 0 |  |
-| 162 | [Qwen3.5-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-Glint) | 17 | 0 |  |
-| 163 | [LFM2.5-2.6B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5) | 17 | 0 |  |
-| 164 | [Olmo-3-7B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Olmo-3-7B-SFT-Fable5) | 17 | 0 |  |
-| 165 | [Gemma4-E2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-Function-Calling-xLAM-Unsloth) | 16 | 0 |  |
-| 166 | [Qwen3.5-2B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM) | 16 | 0 |  |
-| 167 | [Carnice-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Carnice-9B-Function-Calling-xLAM-Unsloth) | 16 | 0 |  |
-| 168 | [Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth) | 16 | 1 |  |
-| 169 | [Qwen3.5-0.8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-Glint) | 16 | 0 |  |
-| 170 | [Qwen3.5-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5-Glint) | 16 | 0 |  |
-| 171 | [Qwen3.5-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-Glint-GGUF) | 16 | 0 |  |
-| 172 | [Qwen3.5-0.8B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5) | 16 | 0 |  |
-| 173 | [LFM2.5-VL-450M-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-450M-SFT-Fable5-Glint) | 16 | 0 |  |
-| 174 | [MiniCPM5-1B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-Glint-GGUF) | 16 | 1 |  |
-| 175 | [Llama-3.1-8B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.1-8B-Instruct_Function_Calling_xLAM-GGUF) | 15 | 0 |  |
-| 176 | [Gemma4-E2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5-Glint) | 15 | 0 |  |
-| 177 | [reasoning-gym-chain-sum-qwen3-1-7b-grpo](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-1-7b-grpo) | 15 | 0 |  |
-| 178 | [LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K-GGUF) | 15 | 0 |  |
-| 179 | [Qwen3.8-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-Glint) | 15 | 0 |  |
-| 180 | [LFM2.5-1.2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM-Unsloth) | 14 | 0 |  |
-| 181 | [Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth) | 14 | 0 |  |
-| 182 | [FastContext-4B-SFT_base-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-Glint) | 14 | 0 |  |
-| 183 | [Qwen3-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-Glint) | 14 | 0 |  |
-| 184 | [Granite-4.1-8B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5) | 14 | 2 |  |
-| 185 | [LFM2.5-VL-1.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-1.6B-SFT-Fable5-Glint) | 14 | 0 |  |
-| 186 | [Qwen3.5-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5) | 14 | 0 |  |
-| 187 | [Ornith-1.5-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-Glint) | 14 | 0 |  |
-| 188 | [Qwen3.8-2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5) | 14 | 0 |  |
-| 189 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth) | 13 | 0 |  |
-| 190 | [Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth) | 13 | 0 |  |
-| 191 | [Qwen2.5-3B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-SFT-UltraChat-GGUF) | 12 | 0 |  |
-| 192 | [reasoning-gym-chain-sum-qwen3-0-6b-grpo-model](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-0-6b-grpo-model) | 12 | 0 |  |
-| 193 | [Qwen3-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5) | 12 | 0 |  |
-| 194 | [Qwen3.8-2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-Glint) | 12 | 0 |  |
-| 195 | [Qwen3.8-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5) | 12 | 0 |  |
-| 196 | [Llama-3.1-8B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.1-8B-Instruct_Function_Calling_xLAM) | 11 | 0 |  |
-| 197 | [LFM2.5-1.2B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM) | 11 | 0 |  |
-| 198 | [LFM2.5-350M-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Fable5-Glint) | 11 | 0 |  |
-| 199 | [Granite-4.1-3B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5-Glint) | 11 | 0 |  |
-| 200 | [Agents-A1-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint) | 11 | 0 |  |
-| 201 | [Qwen3.5-2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5) | 11 | 1 |  |
-| 202 | [Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K) | 10 | 0 |  |
-| 203 | [Qwen3.5-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5) | 10 | 0 |  |
-| 204 | [FastContext-4B-RL_base-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5) | 10 | 0 |  |
-| 205 | [FastContext-4B-SFT_base-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5) | 10 | 0 |  |
-| 206 | [Qwen3-8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5-Glint) | 9 | 0 |  |
-| 207 | [LFM2.5-1.2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Fable5-Glint) | 8 | 0 |  |
+| 112 | [Llama-3.2-3B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct_Function_Calling_xLAM) | 28 | 0 |  |
+| 113 | [Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Claude-Opus-Reasoning-Unsloth) | 28 | 1 |  |
+| 114 | [Ornith-1.5-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-Function-Calling-xLAM-Unsloth) | 28 | 0 |  |
+| 115 | [Llama-3-8B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3-8B-Instruct_Function_Calling_xLAM-GGUF) | 27 | 0 |  |
+| 116 | [qwen2.5-7b-instruct-trl-sft-ChartQA-GGUF](https://huggingface.co/ermiaazarkhalili/qwen2.5-7b-instruct-trl-sft-ChartQA-GGUF) | 27 | 0 |  |
+| 117 | [Qwen3-4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-Function-Calling-xLAM-Unsloth) | 27 | 0 |  |
+| 118 | [Qwen3-8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-Function-Calling-xLAM-Unsloth) | 27 | 0 |  |
+| 119 | [Gemma4-E4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-Glint-GGUF) | 27 | 0 |  |
+| 120 | [Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Claude-Opus-Reasoning-Unsloth) | 26 | 3 |  |
+| 121 | [VibeThinker-3B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Fable5-Glint-GGUF) | 26 | 1 |  |
+| 122 | [MiniCPM5-1B-SFT-Fable5-GGUF](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-GGUF) | 26 | 1 |  |
+| 123 | [Qwen3.8-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-Function-Calling-xLAM-Unsloth) | 26 | 0 |  |
+| 124 | [Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Claude-Opus-Reasoning-Unsloth) | 25 | 0 |  |
+| 125 | [LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Claude-Opus-Reasoning-Unsloth) | 25 | 1 |  |
+| 126 | [LFM2.5-1.2B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Fable5-Glint-GGUF) | 25 | 1 |  |
+| 127 | [Qwen3-8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5-Glint-GGUF) | 25 | 0 |  |
+| 128 | [Qwen3.8-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5-Glint) | 25 | 1 |  |
+| 129 | [Qwen2.5-7B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-Instruct_Function_Calling_xLAM) | 24 | 0 |  |
+| 130 | [VibeThinker-3B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/VibeThinker-3B-SFT-Fable5-Glint) | 24 | 1 |  |
+| 131 | [reasoning-gym-chain-sum-qwen3-0-6b-grpo-model-GGUF](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-0-6b-grpo-model-GGUF) | 24 | 0 |  |
+| 132 | [Qwen2.5-7B-SFT-Capybara-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-7B-SFT-Capybara-GGUF) | 23 | 0 |  |
+| 133 | [Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Claude-Opus-Reasoning-Unsloth) | 23 | 0 |  |
+| 134 | [reasoning-gym-chain-sum-qwen3-1-7b-grpo-GGUF](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-1-7b-grpo-GGUF) | 23 | 0 |  |
+| 135 | [MiniCPM5-1B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5) | 23 | 2 |  |
+| 136 | [FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-Function-Calling-xLAM-Unsloth) | 22 | 0 |  |
+| 137 | [Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-Glint-GGUF) | 22 | 0 |  |
+| 138 | [Gemma4-E4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5) | 22 | 1 |  |
+| 139 | [Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-Function-Calling-xLAM-Unsloth) | 21 | 0 |  |
+| 140 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning) | 21 | 0 |  |
+| 141 | [Gemma4-E4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Fable5-Glint) | 21 | 1 |  |
+| 142 | [Qwen3.5-4B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5-Glint-GGUF) | 21 | 0 |  |
+| 143 | [Qwen3.8-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-4B-SFT-Fable5) | 21 | 0 |  |
+| 144 | [Ornith-1.5-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5) | 21 | 0 |  |
+| 145 | [Qwen2.5-14B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Qwen2.5-14B-Instruct_Function_Calling_xLAM) | 20 | 0 |  |
+| 146 | [Gemma4-E4B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-Function-Calling-xLAM-Unsloth) | 20 | 0 |  |
+| 147 | [Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Claude-Opus-Reasoning-Unsloth) | 20 | 2 |  |
+| 148 | [Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Claude-Opus-Reasoning-Unsloth) | 20 | 1 |  |
+| 149 | [FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Claude-Opus-Reasoning-Unsloth) | 20 | 1 |  |
+| 150 | [FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Claude-Opus-Reasoning-Unsloth) | 20 | 0 |  |
+| 151 | [FastContext-4B-RL_base-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5-Glint) | 20 | 0 |  |
+| 152 | [Carnice-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5) | 20 | 0 |  |
+| 153 | [Qwen3-0.6B-GRPO-NuminaMath-100K](https://huggingface.co/ermiaazarkhalili/Qwen3-0.6B-GRPO-NuminaMath-100K) | 20 | 0 |  |
+| 154 | [Qwen3.5-2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM-Unsloth) | 19 | 1 |  |
+| 155 | [FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-Function-Calling-xLAM-Unsloth) | 19 | 0 |  |
+| 156 | [Carnice-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Carnice-9B-SFT-Fable5-Glint) | 19 | 0 |  |
+| 157 | [granite-4.0-micro-GRPO-NuminaMath-20K-GGUF](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-20K-GGUF) | 19 | 0 |  |
+| 158 | [Qwen3-1.7B-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-GRPO-NuminaMath-10K-GGUF) | 19 | 0 |  |
+| 159 | [Olmo-3-7B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Olmo-3-7B-SFT-Fable5) | 19 | 0 |  |
+| 160 | [Qwen3.5-0.8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5-Glint) | 18 | 0 |  |
+| 161 | [Qwen3.5-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-Glint) | 18 | 0 |  |
+| 162 | [LFM2.5-2.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5-Glint) | 18 | 1 |  |
+| 163 | [Gemma4-E2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-Function-Calling-xLAM-Unsloth) | 17 | 0 |  |
+| 164 | [Qwen3.5-2B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-Function-Calling-xLAM) | 17 | 0 |  |
+| 165 | [Carnice-9B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/Carnice-9B-Function-Calling-xLAM-Unsloth) | 17 | 0 |  |
+| 166 | [Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Claude-Opus-Reasoning-Unsloth) | 17 | 1 |  |
+| 167 | [Qwen3.5-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5-Glint) | 17 | 0 |  |
+| 168 | [Qwen3.5-0.8B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-0.8B-SFT-Fable5) | 17 | 0 |  |
+| 169 | [LFM2.5-VL-450M-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-450M-SFT-Fable5-Glint) | 17 | 0 |  |
+| 170 | [MiniCPM5-1B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-Glint) | 17 | 1 |  |
+| 171 | [Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Gemma4-E4B-SFT-Claude-Opus-Reasoning-Unsloth) | 16 | 1 |  |
+| 172 | [Gemma4-E2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Gemma4-E2B-SFT-Fable5-Glint) | 16 | 0 |  |
+| 173 | [reasoning-gym-chain-sum-qwen3-1-7b-grpo](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-1-7b-grpo) | 16 | 0 |  |
+| 174 | [Qwen3.5-9B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5-Glint-GGUF) | 16 | 0 |  |
+| 175 | [Granite-4.1-8B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Granite-4.1-8B-SFT-Fable5) | 16 | 2 |  |
+| 176 | [LFM2.5-VL-1.6B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-VL-1.6B-SFT-Fable5-Glint) | 16 | 0 |  |
+| 177 | [MiniCPM5-1B-SFT-Fable5-Glint-GGUF](https://huggingface.co/ermiaazarkhalili/MiniCPM5-1B-SFT-Fable5-Glint-GGUF) | 16 | 1 |  |
+| 178 | [LFM2.5-2.6B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/LFM2.5-2.6B-SFT-Fable5) | 16 | 0 |  |
+| 179 | [Qwen3.5-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-4B-SFT-Fable5) | 16 | 0 |  |
+| 180 | [Qwen3.8-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5-Glint) | 16 | 0 |  |
+| 181 | [Ornith-1.5-9B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Ornith-1.5-9B-SFT-Fable5-Glint) | 16 | 0 |  |
+| 182 | [LFM2.5-1.2B-Function-Calling-xLAM-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM-Unsloth) | 15 | 0 |  |
+| 183 | [FastContext-4B-SFT_base-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5-Glint) | 15 | 0 |  |
+| 184 | [Qwen3-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5-Glint) | 15 | 0 |  |
+| 185 | [Granite-4.1-3B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Granite-4.1-3B-SFT-Fable5-Glint) | 15 | 0 |  |
+| 186 | [Qwen3-4B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Fable5) | 15 | 0 |  |
+| 187 | [Qwen3.8-2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5) | 15 | 0 |  |
+| 188 | [LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Claude-Opus-Reasoning-Unsloth) | 14 | 0 |  |
+| 189 | [Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-4B-SFT-Claude-Opus-Reasoning-Unsloth) | 14 | 0 |  |
+| 190 | [Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Claude-Opus-Reasoning-Unsloth) | 14 | 0 |  |
+| 191 | [LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K-GGUF](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K-GGUF) | 14 | 0 |  |
+| 192 | [Llama-3.1-8B-Instruct_Function_Calling_xLAM-GGUF](https://huggingface.co/ermiaazarkhalili/Llama-3.1-8B-Instruct_Function_Calling_xLAM-GGUF) | 13 | 0 |  |
+| 193 | [LFM2.5-350M-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-350M-SFT-Fable5-Glint) | 13 | 0 |  |
+| 194 | [reasoning-gym-chain-sum-qwen3-0-6b-grpo-model](https://huggingface.co/ermiaazarkhalili/reasoning-gym-chain-sum-qwen3-0-6b-grpo-model) | 13 | 0 |  |
+| 195 | [Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/Llama-3.2-3B-Instruct-GRPO-NuminaMath-10K) | 13 | 0 |  |
+| 196 | [Qwen3.8-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.8-9B-SFT-Fable5) | 13 | 0 |  |
+| 197 | [Qwen3.5-9B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-9B-SFT-Fable5) | 12 | 0 |  |
+| 198 | [FastContext-4B-RL_base-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/FastContext-4B-RL_base-SFT-Fable5) | 12 | 0 |  |
+| 199 | [Qwen3.8-2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3.8-2B-SFT-Fable5-Glint) | 12 | 0 |  |
+| 200 | [Llama-3.1-8B-Instruct_Function_Calling_xLAM](https://huggingface.co/ermiaazarkhalili/Llama-3.1-8B-Instruct_Function_Calling_xLAM) | 11 | 0 |  |
+| 201 | [LFM2.5-1.2B-Function-Calling-xLAM](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Function-Calling-xLAM) | 11 | 0 |  |
+| 202 | [Qwen3-8B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5-Glint) | 11 | 0 |  |
+| 203 | [Agents-A1-4B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/Agents-A1-4B-SFT-Fable5-Glint) | 11 | 0 |  |
+| 204 | [FastContext-4B-SFT_base-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/FastContext-4B-SFT_base-SFT-Fable5) | 11 | 0 |  |
+| 205 | [Qwen3.5-2B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3.5-2B-SFT-Fable5) | 11 | 1 |  |
+| 206 | [Qwen2.5-3B-SFT-UltraChat-GGUF](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-SFT-UltraChat-GGUF) | 10 | 0 |  |
+| 207 | [LFM2.5-1.2B-SFT-Fable5-Glint](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-SFT-Fable5-Glint) | 9 | 0 |  |
 | 208 | [Qwen3-8B-SFT-Fable5](https://huggingface.co/ermiaazarkhalili/Qwen3-8B-SFT-Fable5) | 7 | 1 |  |
-| 209 | [SmolLM3-3B-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/SmolLM3-3B-GRPO-NuminaMath-10K) | 6 | 0 |  |
-| 210 | [Qwen3-1.7B-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-GRPO-NuminaMath-10K) | 5 | 0 |  |
+| 209 | [Qwen3-1.7B-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/Qwen3-1.7B-GRPO-NuminaMath-10K) | 6 | 0 |  |
+| 210 | [SmolLM3-3B-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/SmolLM3-3B-GRPO-NuminaMath-10K) | 6 | 0 |  |
 | 211 | [LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/LFM2.5-1.2B-Instruct-GRPO-NuminaMath-10K) | 5 | 0 |  |
 | 212 | [OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/OpenMath-Nemotron-1.5B-GRPO-NuminaMath-10K) | 3 | 0 |  |
 | 213 | [qwen2.5-7b-instruct-trl-sft-ChartQA](https://huggingface.co/ermiaazarkhalili/qwen2.5-7b-instruct-trl-sft-ChartQA) | 0 | 0 |  |
@@ -246,27 +246,26 @@
 | 225 | [granite-4.0-micro-GRPO-NuminaMath-10K](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-10K) | 0 | 0 |  |
 | 226 | [granite-4.0-micro-GRPO-NuminaMath-20K](https://huggingface.co/ermiaazarkhalili/granite-4.0-micro-GRPO-NuminaMath-20K) | 0 | 0 |  |
 | 227 | [Qwen2.5-3B-GRPO-NuminaMath-100K](https://huggingface.co/ermiaazarkhalili/Qwen2.5-3B-GRPO-NuminaMath-100K) | 0 | 0 |  |
-| | **Total** | **22,961** | | |
+| | **Total** | **23,524** | | |
 
 ## Datasets (8)
 
 | # | Dataset | Downloads | Likes | Last Modified |
 |--:|---------|----------:|------:|--------------:|
 | 1 | [alpaca-gpt4-en-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-en-high-prob-qwen-0.5b-10k) | 42 | 0 | 2025-12-16 |
-| 2 | [datasets-genbank-test](https://huggingface.co/ermiaazarkhalili/datasets-genbank-test) | 41 | 0 | 2026-07-03 |
-| 3 | [alpaca-gpt4-short-100tok](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-short-100tok) | 39 | 0 | 2025-12-20 |
-| 4 | [alpaca-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-high-prob-qwen-0.5b-10k) | 37 | 0 | 2025-12-16 |
-| 5 | [orca-mini-short-100tok](https://huggingface.co/ermiaazarkhalili/orca-mini-short-100tok) | 32 | 0 | 2025-12-20 |
-| 6 | [alpaca-cleaned-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-cleaned-high-prob-qwen-0.5b-10k) | 31 | 0 | 2025-12-16 |
-| 7 | [orca-mini-v1-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/orca-mini-v1-high-prob-qwen-0.5b-10k) | 30 | 0 | 2025-12-16 |
-| 8 | [wordle-grpo-runs](https://huggingface.co/ermiaazarkhalili/wordle-grpo-runs) | 14 | 0 | 2026-08-02 |
+| 2 | [datasets-genbank-test](https://huggingface.co/ermiaazarkhalili/datasets-genbank-test) | 42 | 0 | 2026-07-03 |
+| 3 | [alpaca-gpt4-short-100tok](https://huggingface.co/ermiaazarkhalili/alpaca-gpt4-short-100tok) | 40 | 0 | 2025-12-20 |
+| 4 | [alpaca-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-high-prob-qwen-0.5b-10k) | 39 | 0 | 2025-12-16 |
+| 5 | [orca-mini-short-100tok](https://huggingface.co/ermiaazarkhalili/orca-mini-short-100tok) | 31 | 0 | 2025-12-20 |
+| 6 | [alpaca-cleaned-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/alpaca-cleaned-high-prob-qwen-0.5b-10k) | 29 | 0 | 2025-12-16 |
+| 7 | [orca-mini-v1-high-prob-qwen-0.5b-10k](https://huggingface.co/ermiaazarkhalili/orca-mini-v1-high-prob-qwen-0.5b-10k) | 28 | 0 | 2025-12-16 |
+| 8 | [wordle-grpo-runs](https://huggingface.co/ermiaazarkhalili/wordle-grpo-runs) | 15 | 0 | 2026-08-02 |
 | | **Total** | **266** | | |
 
 ## Daily Trend
 
 | Date | Models | Datasets | Model DL | Dataset DL | Total DL | Likes |
 |------|-------:|---------:|---------:|-----------:|---------:|------:|
-| 2026-10-23 | 227 | 8 | 18,247 | 123 | 18,370 | 62 |
 | 2026-10-24 | 227 | 8 | 18,045 | 125 | 18,170 | 62 |
 | 2026-10-25 | 227 | 8 | 17,901 | 128 | 18,029 | 62 |
 | 2026-10-26 | 227 | 8 | 17,968 | 139 | 18,107 | 62 |
@@ -296,4 +295,5 @@
 | 2026-11-19 | 227 | 8 | 22,708 | 257 | 22,965 | 65 |
 | 2026-11-20 | 227 | 8 | 22,873 | 257 | 23,130 | 65 |
 | 2026-11-21 | 227 | 8 | 22,961 | 266 | 23,227 | 65 |
+| 2026-11-22 | 227 | 8 | 23,524 | 266 | 23,790 | 65 |
 
